@@ -1,0 +1,6 @@
+{
+  "name": "Boma Real Estate",
+  "description": "Created by Denis Obere Alumasi. Kenyan real estate platform with property search, verified agents, fraud prevention, document vault, mortgage leads, and virtual tours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
